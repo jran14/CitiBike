@@ -12,5 +12,15 @@ Start and End bike journies indicates the number of bike journies for each given
 
 Number of Bike Starts
 
-A gepgaphic map by zip code of all start locations and the number of bike rentals originating from that location. This visualization can be filtered by usertype. This allows us to see which locations are popular with one time users. Subscriber activity can also be tracked across all stations. Bike avaliability and advertising can be adjusted according to number of rentals at each station. 
+A geographic map by zip code of all start locations and the number of bike rentals originating from that location. This visualization can be filtered by usertype. This allows us to see which locations are popular with one time users. Subscriber activity can also be tracked across all stations. Bike avaliability and advertising can be adjusted according to number of rentals at each station. 
+
+## Rental Duration by Age and Area
+
+Duration Vs Age
+
+Bike rentals are analyzed by age. Most users are in the age range of 30-33. The line indicatedd average duration of rental by age as well. Most riders rode an average of 1500 minutes per trip. Riders 20 years and younger rode for longer periods of time. The younger generation rent fewer times but for longer time ranges. 
+
+Start by Popularity and Total Rental Time 
+
+
 
