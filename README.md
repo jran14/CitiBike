@@ -2,11 +2,11 @@
 
 Source: https://www.citibikenyc.com/system-data 
 
-##Data
+## Data
 
 Data was sourced form Citibike public data for Q1 2019. Data analysis was limited to customers aged 40 years and younger. Three months of  data was joined by bike id to get data relevent to each individual bike. 
 
-##2019 Q1 Individual Bike Rentals
+## 2019 Q1 Individual Bike Rentals
 
 Start and End bike journies indicates the number of bike journies for each given start and stop location by each bike. The more popular locations are shown in red. The visualization can be filtered by age to gain insight to see which age demogaphics rent bikes from different locations. 
 
