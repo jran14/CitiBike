@@ -1,6 +1,7 @@
 # CitiBike Project
 
 Source: https://www.citibikenyc.com/system-data 
+Visualization: https://public.tableau.com/profile/jennie8745#!/vizhome/CitiBikeProject_15823942260330/CitiBikeProject
 
 ## Data
 
