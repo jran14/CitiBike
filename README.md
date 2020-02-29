@@ -22,5 +22,5 @@ Bike rentals are analyzed by age. Most users are in the age range of 30-33. The 
 
 Start by Popularity and Total Rental Time 
 
-
+The start locations were grouped by bike rentals transactions. The middle group locations had longer rental times. Use the previous charts to to visualize the locations and see where end locations are. Depending on popularity, more bikes may has to be stationed at differend locations to meet demand if riders are renting for longer periods of time. 
 
